@@ -1,5 +1,5 @@
 {
-  "name": "react-native-fs",
+  "name": "@apus-rn/react-native-fs",
   "version": "2.18.0",
   "description": "Native filesystem access for react-native",
   "main": "FS.common.js",
